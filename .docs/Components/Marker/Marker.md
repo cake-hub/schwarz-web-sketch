@@ -27,8 +27,6 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ## Variants
 
-- The marker element is available in different sizes, depending on the corresponding text-styles: **small-**, **basic-** and **large-bold**
-- Please use the marker that corresponds to the breakpoint, as there are different sizes available: **small**, **basic**, **large**.
 - The marker element is available in different colors, which are subcategorized into: **positive** and **negative**.
 
 | Types | Attributes | Preview |
@@ -54,13 +52,10 @@ Use the different flashes to emphasize messages with a strong meaning.
 | Types | Attributes | Preview |
 |---|---|---|
 | Horizontal spacing | 8px | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
-| Vertical spacing | the text is always vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
-| Height (LG) | small: 36px<br>basic: 40px<br>large: 44px  | ![sizes: LG](assets/measurements/height/LG@1x.png) |
-| Height (MD-XS) | small: 32px<br>basic: 36px<br>large: 40px  | ![sizes: MD-XS](assets/measurements/height/MD-XS@1x.png) |
-| Width (LG) | small: 96px<br>basic: 136px<br>large: 176px  | ![sizes: LG](assets/measurements/width/LG@1x.png) |
-| Width (MD-XS) | small: 80px<br>basic: 120px<br>large: 160px  | ![sizes: MD-XS](assets/measurements/width/MD-XS@1x.png) |
+| Vertical spacing | padding-top: 16px | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
+| Height | LG: 50px<br>MD-XS: 44px  | ![height](assets/measurements/height@1x.png) |
+| Width | LG: 136px<br>MD-XS: 120px | ![Width](assets/measurements/width@1x.png) |
 | Angle | inner angle: 128°<br>outer angle: 26° | ![angle](assets/measurements/angle@1x.png)
-
 
 ---
 

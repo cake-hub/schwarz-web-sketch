@@ -13,7 +13,7 @@ In our case, only rows are separated by a horizontal divider. The use of backgro
 ## Overall styling
 
 - The text-style is **basic** or **basic-bold** for headlines.
-- The font-color is **basic-black**.
+- The font-color is **basic-black** and for headlines **brand-primary-base**.
 - Content dividers have **gray-lighter** as color and a **1px thickness**.
 - Column header dividers have **brand-primary-base** as color but a **2px thickness**.
 

@@ -77,7 +77,7 @@ They have to agree to the cookie settings of websites to visit and interact with
 ## Position
 
 - The cookie alert is placed in the center of the screen.
-- The [overlay](/Web/Design/General/Effect/Effect.html#overlays) covers the complete website.
+- The [overlay](../../General/Effect/Effect.md#overlays) covers the complete website.
 - The user can only interact with the website after confirming the cookie settings.
 
 ---

@@ -11,21 +11,25 @@ It helps you to present your design and content as clearly and effectively as po
 ## Typefaces
 
 - The Helvetica Neue displays the **functional** and **objective** style that was characteristic of fonts in the 1950s and 60s.
-- **Capital letters are not allowed**.
-- All types of headings should primarily be used in **single line scenarios**.
-- The defined base color for all text-styles is **basic-black**.
-- Use any color of **brand-primary**, **brand-secondary**, **brand-info**, **brand-attention**, **gray**, **danger** or **success** as text color as long as it has a high contrast ratio in interaction with backgrounds.
-
 
 ![Light Condensed](assets/typeface/light-condensed@1x.png)<br>
 ![Medium Condensed](assets/typeface/medium-condensed@1x.png)<br>
 
 ---
 
+## Overall styling
+- **Capital letters are not allowed!**
+- All text-styles are set to a letter-spacing of **0.2px**.
+- All types of headings should primarily be used in **single line scenarios**.
+- The defined base color for all text-styles is **basic-black**.
+- Use any color of **brand-primary**, **brand-secondary**, **brand-info**, **brand-attention**, **gray**, **danger** or **success** as text color as long as it has a high contrast ratio in interaction with backgrounds.
+
+---
+
 ## Light Condensed
 
-- The line height is always **140%**.
 - It is mainly used, i. e. for body text, links, tables, lists, input fields, etc.
+- The line height is always **140%**.
 
 ### Small
 
@@ -62,8 +66,8 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Medium condensed
 
-- The line height is always **140%**.
 - It is mainly used, i. e. for headlines, labels, highlights.
+- The line height is always **140%**.
 
 ### Small Bold
 
@@ -137,9 +141,9 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Displays
 
-- The display text-style is defined in 3 levels.
+- The display text-style is defined in 5 levels.
 - All levels have different font sizes.
-- There are fixed font sizes from level 3 to level 1.
+- There are fixed font sizes from level 5 to level 1.
 - The typeface is always **medium-condensed**.
 - The line height is always **120%**.
 
@@ -164,6 +168,19 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 48px | ![display 3 (LG) ](assets/display/level-3/LG@1x.png) |
 | MD-XS | 24px | ![display 3 (MD-XS)](assets/display/level-3/MD-XS@1x.png) |
 
+### Display (Level 4)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 44px | ![display 4 (LG) ](assets/display/level-4/LG@1x.png) |
+| MD-XS | 20px | ![display 4 (MD-XS)](assets/display/level-4/MD-XS@1x.png) |
+
+### Display (Level 5)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 40px | ![display 5 (LG) ](assets/display/level-5/LG@1x.png) |
+| MD-XS | 16px | ![display 5 (MD-XS)](assets/display/level-5/MD-XS@1x.png) |
 
 ---
 
@@ -189,5 +206,4 @@ It helps you to present your design and content as clearly and effectively as po
 ## Our workflow in Sketch
 
 - All text styles are included in our CAKE UI Fundamental file.
-- With Sketch v51.2 text styles can always be linked to this document.
-- Use only these styles!
+- With Sketch v51.2 text styles can always be linked to this document – Use only these styles!

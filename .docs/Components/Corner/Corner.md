@@ -4,7 +4,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 # Corner
 
-The corner component belongs - like [bubble](../Bubble/bubble.md), [frame](../Frame/Frame.md) and [marker](../Marker/Marker.md) - to the group of **flashes**.
+The corner component belongs - like [bubble](../Bubble/Bubble.md), [frame](../Frame/Frame.md) and [marker](../Marker/Marker.md) - to the group of **flashes**.
 
 Use the different flashes to emphasize messages with a strong meaning.
 
@@ -27,28 +27,16 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ## Variants
 
-- The corner element is available in different sizes, depending on the corresponding text-styles: **small-**, **basic-** and **large-bold**
-- Please use the corner that corresponds to the breakpoint, as there are different sizes available: **small**, **basic**, **large**.
 - The corner element is available in different colors, which are subcategorized into: **positive** and **negative**
 - There is an additional separation into **top** and **bottom** due to the readability of the text.
 
-### Top
-
 | Types | Attributes | Preview |
 |---|---|---|
-| Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![top: primary](assets/types/primary/top@1x.png) |
-| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![top: secondary](assets/types/secondary/top@1x.png)|
-| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![top: info](assets/types/info/top@1x.png) |
-| Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![top: attention](assets/types/attention/top@1x.png) |
+| Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![primary](assets/types/primary@1x.png) |
+| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![secondary](assets/types/secondary@1x.png)|
+| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![info](assets/types/info@1x.png) |
+| Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![attention](assets/types/attention@1x.png) |
 
-### Bottom
-
-| Types | Attributes | Preview |
-|---|---|---|
-| Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![bottom: primary](assets/types/primary/bottom@1x.png) |
-| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![bottom: secondary](assets/types/secondary/bottom@1x.png)|
-| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![bottom: info](assets/types/info/bottom@1x.png) |
-| Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![bottom: attention](assets/types/attention/bottom@1x.png) |
 
 ---
 
@@ -69,9 +57,8 @@ Use the different flashes to emphasize messages with a strong meaning.
 | Types | Attributes | Preview |
 |---|---|---|
 | Horizontal spacing | padding: 8px | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
-| Vertical spacing | the text is always vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
-| Height (LG) | small: 28px<br>basic: 36px<br>large: 44px  | ![sizes: LG](assets/measurements/height/LG@1x.png) |
-| Height (MD-XS) | small: 24px<br>basic: 32px<br>large: 40px  | ![sizes: MD-XS](assets/measurements/height/MD-XS@1x.png) |
+| Vertical spacing | the text is always optically vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
+| Height | LG: 36px<br>MD-XS: 32px  | ![Height](assets/measurements/height@1x.png) |
 | Angle | inner angle: 45° | ![rotation](assets/measurements/angle@1x.png)
 
 

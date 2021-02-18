@@ -23,6 +23,7 @@ It consists of an image and a text to underline the visual meaning.
 - The title uses the text-style **large-bold**.
 - The subhead comes in the text-style **basic**.
 - The line-height is always **120%**.
+- The title and and the subhead text-color is **basic-white**.
 - The image is overlayed by a gradient with a default-color in **basic-black**.
 - The gradient uses **hard-light** as a background-blend-mode.
 - When a teaser is hovered, the text is **underlined** and the **curser turns into a pointer**.

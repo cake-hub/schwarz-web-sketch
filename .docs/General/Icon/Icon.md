@@ -98,6 +98,7 @@ They support the understanding of an information or function. Symbols are easier
 | eye-open | ![eye-open](assets/interaction/eye-open@1x.png) | show |
 | file | ![file](assets/interaction/file@1x.png) | paper |
 | fingerprint | ![fingerprint](assets/interaction/fingerprint@1x.png) | identity |
+| house| ![house](assets/interaction/house@1x.png) | home |
 | hook | ![hook](assets/interaction/hook@1x.png) | check, ok |
 | magnifier-plus | ![magnifier-plus](assets/interaction/magnifier-plus@1x.png) | zoom in |
 | magnifier-minus | ![magnifier-minus](assets/interaction/magnifier-minus@1x.png) | zoom out |

@@ -13,8 +13,9 @@ This focus is underlined with the help of a headline, text and image to give the
 ## Recommendations
 
 - Keep the text short.
-- The body text in our tablet portrait and smartphone components shouldn't be longer than a maximum of two lines.
-- If the body text is longer than two lines it ends with ellipsis.
+- The title in our tablet portrait and smartphone components shouldn't be longer than a maximum of two lines.
+- If the title is longer than two lines it ends with ellipsis.
+- Note that on SM-XS the body text is hidden.
 
 ---
 
@@ -22,7 +23,7 @@ This focus is underlined with the help of a headline, text and image to give the
 
 - It has **no hover** or **focus** state.
 - The headline uses the text-style **display 1**.
-- The body-text comes in the text-style **basic**.
+- The body-text comes in the text-style **large**.
 - The line-height of the display text-style is set to **100%**.
 - There is **no inverted variant** for portrait tablet (SM) and smartphone (XS) breakpoints because the textual part always is placed under the image with a colored background.
 - The picture is set to a **16:9** but can be adjusted to any preferred ratio.
@@ -78,8 +79,8 @@ This focus is underlined with the help of a headline, text and image to give the
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | padding: 112px / 146px (LG)<br>padding: 40px / 80px (MD)<br>padding: 16px (SM+XS)<br>*text is horizontally centered* | ![horizontal spacing: LG](assets/measurements/horizontal-spacing/LG@1x.png)<br>![horizontal spacing: MD](assets/measurements/horizontal-spacing/MD@1x.png)<br>![horizontal spacing: SM+XS](assets/measurements/horizontal-spacing/SM+XS@1x.png)  |
-| Vertical spacing | margin-bottom: 8px (all breakpoints)<br>padding: 16px (SM+XS)| ![vertical spacing: SM+XS](assets/measurements/vertical-spacing/LG+MD@1x.png)<br>![vertical spacing: SM+XS](assets/measurements/vertical-spacing/SM+XS@1x.png) |
+| Horizontal spacing | padding: 112px / 146px (LG)<br>padding: 40px / 80px (MD)<br>padding: 16px (SM+XS)<br> | ![horizontal spacing: LG](assets/measurements/horizontal-spacing/LG@1x.png)<br>![horizontal spacing: MD](assets/measurements/horizontal-spacing/MD@1x.png)<br>![horizontal spacing: SM+XS](assets/measurements/horizontal-spacing/SM+XS@1x.png)  |
+| Vertical spacing | margin-bottom: 8px (all breakpoints)<br>padding: 16px (SM+XS)<br>*text group is vertically centered*| ![vertical spacing: SM+XS](assets/measurements/vertical-spacing/LG+MD@1x.png)<br>![vertical spacing: SM+XS](assets/measurements/vertical-spacing/SM+XS@1x.png) |
 
 
 ### Measurements
@@ -98,3 +99,7 @@ This focus is underlined with the help of a headline, text and image to give the
 
 - Override the text.
 - Adjust the width of the arrow and picture.
+
+### Our workflow in Sketch
+
+- Use the "Overrides"-function to customize your banner element (i.e. select the correct status you want to display).

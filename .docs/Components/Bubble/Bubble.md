@@ -27,8 +27,6 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ## Variants
 
-- The bubble element is available in different sizes, depending on the corresponding text-styles: **small-**, **basic-** and **large-bold**
-- Please use the bubble that corresponds to the breakpoint, as there are different sizes available: **small**, **basic**, **large**.
 - The bubble element is available in different colors, which are subcategorized into: **positive** and **negative**.
 
 | Types | Attributes | Preview |
@@ -53,10 +51,9 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | small: 16px<br>basic: 24px<br>large: 32px | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
-| Vertical spacing | the text always gets vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
-| Size (LG) | small: 112 x 112px<br>basic: 160 x 160px<br>large: 200 x 200px  | ![sizes: LG](assets/measurements/size/LG@1x.png) |
-| Size (MD-XS) | small: 96 x 96px<br>basic: 144 x 144px<br>large: 184 x 184px  | ![sizes: MD-XS](assets/measurements/size/MD-XS@1x.png) |
+| Horizontal spacing | padding: 16px (LG)<br>padding: 8px (MD-XS) | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
+| Vertical spacing | the text always gets optically, vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
+| Size | LG: 144 x 144px<br>MD-XS: 112 x 112px | ![size](assets/measurements/size@1x.png) |
 | Angle | rotation: 10° | ![rotation](assets/measurements/angle@1x.png)
 
 

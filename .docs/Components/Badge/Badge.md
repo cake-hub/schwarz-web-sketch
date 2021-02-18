@@ -101,12 +101,16 @@ Basically it is positioned in a context with a text.
 
 ## Spacing & Measurements
 
+- Note that the badge element has a **1px basic-white** border.
+
 ### Standard
 
 | Types | Attributes | Preview |
 |---|---|---|
 | Horizontal spacing | padding: 16px | ![horizontal-spacing](assets/measurements/standard/horizontal-spacing@1x.png) |
-| Vertical spacing | text horizontally centered | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
+| Vertical spacing | text optically, vertically centered | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
+| Height (LG) | small: 27px<br>basic: 32px<br>large: 37px | ![height (LG)](assets/measurements/standard/height/LG@1x.png) |
+| Height (MD-XS) | small: 25px<br>basic: 30px<br>large: 35px | ![height (LG)](assets/measurements/standard/height/MD-XS@1x.png) |
 | Distances | margin: 8px | ![distance](assets/measurements/standard/distance@1x.png) |
 
 ### Addon
@@ -114,7 +118,7 @@ Basically it is positioned in a context with a text.
 | Types | Attributes | Preview |
 |---|---|---|
 | Horizontal spacing | padding: 4px | ![horizontal-spacing](assets/measurements/pill/horizontal-spacing@1x.png) |
-| Size | LG: 20px<br>MD-XS: 16px | ![vertical-spacing](assets/measurements/pill/size@1x.png) |
+| Height | LG: 20px<br>MD-XS: 16px | ![vertical-spacing](assets/measurements/pill/size@1x.png) |
 | Position | Overlaps an icon by 50% to the right<br>Text expands the element to the left  | ![position](assets/measurements/pill/position@1x.png) |
 
 ---

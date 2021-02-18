@@ -4,7 +4,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 # Frame
 
-The corner component belongs - like [bubble](../Bubble/bubble.md), [corner](../Corner/Corner.md) and [marker](../Marker/Marker.md) - to the group of **flashes**.
+The corner component belongs - like [bubble](../Bubble/Bubble.md), [corner](../Corner/Corner.md) and [marker](../Marker/Marker.md) - to the group of **flashes**.
 
 Use the different flashes to emphasize messages with a strong meaning.
 
@@ -27,28 +27,15 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ## Variants
 
-- The frame element is available in different sizes, depending on the corresponding text-styles: **small-**, **basic-** and **large-bold**
-- Please use the frame that corresponds to the breakpoint, as there are different sizes available: **small**, **basic**, **large**.
 - The frame element is available in different colors, which are subcategorized into: **positive** and **negative**
 - There is an additional separation into **left** and **right** due to the positioning of the symbol.
 
-### Left
-
 | Types | Attributes | Preview |
 |---|---|---|
-| Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![left: primary](assets/types/primary/left@1x.png) |
-| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![left: secondary](assets/types/secondary/left@1x.png)|
-| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![left: info](assets/types/info/left@1x.png) |
-| Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![left: attention](assets/types/attention/left@1x.png) |
-
-### Right
-
-| Types | Attributes | Preview |
-|---|---|---|
-| Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![right: primary](assets/types/primary/right@1x.png) |
-| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![right: secondary](assets/types/secondary/right@1x.png)|
-| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![right: info](assets/types/info/right@1x.png) |
-| Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![right: attention](assets/types/attention/right@1x.png) |
+| Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![left: primary](assets/types/primary@1x.png) |
+| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![left: secondary](assets/types/secondary@1x.png)|
+| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![left: info](assets/types/info@1x.png) |
+| Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![left: attention](assets/types/attention@1x.png) |
 
 ---
 
@@ -69,10 +56,9 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | padding: 16px / 8px (variant: right)<br>padding: 8px / 16px (variant: right) | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
-| Vertical spacing | the text is always vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
-| Height (LG) | small: 48px<br>basic: 64px<br>large: 80px  | ![sizes: LG](assets/measurements/height/LG@1x.png) |
-| Height (MD-XS) | small: 48px<br>basic: 56px<br>large: 64px  | ![sizes: MD-XS](assets/measurements/height/MD-XS@1x.png) |
+| Horizontal spacing | padding: 16px / 8px (left)<br>padding: 8px / 16px (right) | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
+| Vertical spacing | the text is always optically vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
+| Height | LG: 64px<br>MD-XS: 56px  | ![Height](assets/measurements/height@1x.png) |
 | Angle | inner angle: 64° | ![rotation](assets/measurements/angle@1x.png)
 
 
