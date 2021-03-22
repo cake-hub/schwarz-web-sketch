@@ -12,7 +12,8 @@ Parts of the content are hidden in a container and only displayed by the user's 
 
 ## Overall styling
 
-- The text-style is **basic**.
+- The text-style is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - The outline has a **1px thickness**.
 
 ### Accordion
@@ -48,6 +49,7 @@ Parts of the content are hidden in a container and only displayed by the user's 
 | Vertical spacing | padding-top: 8px<br>padding-bottom: 16px | ![measurements: padding](assets/measurements/vertical-spacing@1x.png) |
 | Height | LG: 48px<br>MD-XS: 40px | ![measurements: padding](assets/measurements/height@1x.png) |
 | Size | icon: 24x24px | ![measurements: padding](assets/measurements/icon@1x.png) |
+| Text length ends with ellipsis | padding-right: 16px | ![measurements: padding](assets/measurements/horizontal-spacing-ellipsis@1x.png) |
 
 ### Spacing
 

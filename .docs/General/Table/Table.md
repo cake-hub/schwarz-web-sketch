@@ -12,10 +12,12 @@ In our case, only rows are separated by a horizontal divider. The use of backgro
 
 ## Overall styling
 
-- The text-style is **basic** or **basic-bold** for headlines.
+- The text-style is [basic](../../General/Typography/Typography.md#basic) or [basic-bold](../../General/Typography/Typography.md#medium-condensed-basic-bold) for headlines.
+- The line-height is set to **default**.
 - The font-color is **basic-black** and for headlines **brand-primary-base**.
 - Content dividers have **gray-lighter** as color and a **1px thickness**.
 - Column header dividers have **brand-primary-base** as color but a **2px thickness**.
+- The background-color for a table in zebra look is always **gray-lightest**, it stays in a **transparent** look if theres is no background-color desired.
 
 ---
 
@@ -36,6 +38,17 @@ There are different kinds of tables.
 
 ![With headers](assets/styles/tables-with-headers@1x.png)
 
+### Table with vertical background
+
+- The background color changes in every odd column (e.g. 1, 3, 5, 7,…).
+
+![Vertical background](assets/styles/table-with-vertical-background@1x.png)
+
+### Table with horizontal background
+
+- The background color changes in every odd row (e.g. 1, 3, 5, 7,…).
+
+![Horizontal background](assets/styles/table-with-horizontal-background@1x.png)
 
 ---
 
@@ -52,8 +65,8 @@ There are different kinds of tables.
 
 | Type | Attributes | Preview |
 |---|---|---|
-| Vertical spacing<br>(for column head, row head & table content) | padding-top: 8px<br>padding-bottom: 8px | ![Vertical spacing: table content](assets/measurements/vertical-1@1x.png) |
-| Horizontal spacing<br>(for column head, row head & table content) | padding-left: 16px<br>padding-right: 16px | ![Horizontal spacing: table content](assets/measurements/horizontal-1@1x.png) |
+| Vertical spacing<br>(for _column head_, _row head_ & _table content_) | padding-top: 8px<br>padding-bottom: 8px | ![Vertical spacing: table content](assets/measurements/vertical-1@1x.png) |
+| Horizontal spacing<br>(for _column head_, _row head_ & _table content_) | padding-left: 16px<br>padding-right: 16px | ![Horizontal spacing: table content](assets/measurements/horizontal-1@1x.png) |
 
 ---
 

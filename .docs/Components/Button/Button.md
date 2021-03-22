@@ -72,7 +72,8 @@ The actions can be separated into two buttons. The design of two different butt
 
 ## Overall styling
 
-- The text-style is **button-text**.
+- The text-style is [button-text](../../General/Typography/Typography.md#button-text).
+- The line-height is set to **default**.
 - Secondary buttons have a **outline** with a **1px thickness**.
 
 ### Positive

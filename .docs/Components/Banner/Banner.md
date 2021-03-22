@@ -13,21 +13,21 @@ This focus is underlined with the help of a headline, text and image to give the
 ## Recommendations
 
 - Keep the text short.
-- The title in our tablet portrait and smartphone components shouldn't be longer than a maximum of two lines.
-- If the title is longer than two lines it ends with ellipsis.
+- The title in our **tablet portrait** and **smartphone** components shouldn't be longer than a **maximum of two lines**.
 - Note that on SM-XS the body text is hidden.
 
 ---
 
 ## Overall styling
 
-- It has **no hover** or **focus** state.
-- The headline uses the text-style **display 1**.
-- The body-text comes in the text-style **large**.
-- The line-height of the display text-style is set to **100%**.
+- The headline uses the text-style [display 1](../../General/Typography/Typography.md#displays-display-level-1).
+- The line-height of the display text-style is set to **110%**.
+- The body-text comes in the text-style [large](../../General/Typography/Typography.md#large).
+- The line-height of the body-text is set to **default**.
 - There is **no inverted variant** for portrait tablet (SM) and smartphone (XS) breakpoints because the textual part always is placed under the image with a colored background.
 - The picture is set to a **16:9** but can be adjusted to any preferred ratio.
-- The text always is placed on the plain color and never on an image.
+- The text always is vertical centered on the plain color and never on an image.
+- It has **no hover** or **focus** state.
 
 ---
 
@@ -63,8 +63,8 @@ This focus is underlined with the help of a headline, text and image to give the
 ## Possible adjustments
 
 - This adjustments mainly concern the components with an arrow element.
-- The peak of the arrow element can be positioned at any column of the grid but it always has to keep its defined angle.
-- Please pay attention that the **colored area doesn't take more than 50%** of the layout.
+- The peak of the rectangle element can be positioned at minimum third column and maximum on the sixth column of the grid. The desired brand element is the result of the combination of the rectangle and the triangle element.
+- Please pay attention that the **rectangle doesn't take more than six columns and minimum three columns** of the layout.
 - There should be **enough space** for the textual part as well.
 
 ![adjustment: arrow](assets/adjustments/arrow@1x.png)
@@ -79,8 +79,9 @@ This focus is underlined with the help of a headline, text and image to give the
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | padding: 112px / 146px (LG)<br>padding: 40px / 80px (MD)<br>padding: 16px (SM+XS)<br> | ![horizontal spacing: LG](assets/measurements/horizontal-spacing/LG@1x.png)<br>![horizontal spacing: MD](assets/measurements/horizontal-spacing/MD@1x.png)<br>![horizontal spacing: SM+XS](assets/measurements/horizontal-spacing/SM+XS@1x.png)  |
-| Vertical spacing | margin-bottom: 8px (all breakpoints)<br>padding: 16px (SM+XS)<br>*text group is vertically centered*| ![vertical spacing: SM+XS](assets/measurements/vertical-spacing/LG+MD@1x.png)<br>![vertical spacing: SM+XS](assets/measurements/vertical-spacing/SM+XS@1x.png) |
+| **Default**<br>Horizontal spacing | padding-left: 24px (LG) / 32px (MD)<br>padding-right: 8px (LG-MD)<br>padding: 16px (SM+XS)<br> | ![horizontal spacing: LG](assets/measurements/horizontal-spacing/LG@1x.png)<br>![horizontal spacing: MD](assets/measurements/horizontal-spacing/MD@1x.png)<br>![horizontal spacing: SM+XS](assets/measurements/horizontal-spacing/SM+XS@1x.png)|
+| **Default**<br>vertical spacing | margin-bottom: 8px (all breakpoints)<br>padding: 16px (SM+XS)<br>*text group is vertically centered*| ![vertical spacing: SM+XS](assets/measurements/vertical-spacing/LG+MD@1x.png)<br>![vertical spacing: SM+XS](assets/measurements/vertical-spacing/SM+XS@1x.png) |
+| **Inverted**<br> horizontal spacing | padding-right:<br>24px (LG) / 32px (MD)<br>The first column is used as left padding.| ![horizontal spacing: LG](assets/measurements/horizontal-spacing/inverted/LG@1x.png)<br> ![horizontal spacing: LG](assets/measurements/horizontal-spacing/inverted/MD@1x.png) |
 
 
 ### Measurements
@@ -95,10 +96,40 @@ This focus is underlined with the help of a headline, text and image to give the
 
 ---
 
+## Examples
+
+### Overall
+
+> Note: <br>Depending on the design requirements, it is possible to use a different number of columns for the flat brand element on LG than on MD. This offers a creative freedom to present the content on different touchpoints in an optimal way.
+
+#### Default Positive LG-XS overview
+
+![example: default positive LG-XS](assets/examples/default/positive/LG-XS@1x.png)
+
+---
+
+#### Inverted Positive LG-XS overview
+
+![example: default positive LG-XS](assets/examples/inverted/positive/LG-XS@1x.png)
+
+---
+
+#### Default Negative LG-XS overview
+
+![example: default positive LG-XS](assets/examples/default/negative/LG-XS@1x.png)
+
+---
+
+#### Inverted Negative LG-XS overview
+
+![example: default positive LG-XS](assets/examples/inverted/negative/LG-XS@1x.png)
+
+---
+
 ## What can be modified?
 
 - Override the text.
-- Adjust the width of the arrow and picture.
+- Adjust the width of the branded arrow element and picture.
 
 ### Our workflow in Sketch
 

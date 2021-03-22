@@ -20,8 +20,8 @@ It consists of an image and a text to underline the visual meaning.
 
 ## Overall styling
 
-- The title uses the text-style **large-bold**.
-- The subhead comes in the text-style **basic**.
+- The title uses the text-style [large-bold](../../General/Typography/Typography.md#medium-condensed-large-bold).
+- The subhead comes in the text-style [basic](../../General/Typography/Typography.md#basic).
 - The line-height is always **120%**.
 - The title and and the subhead text-color is **basic-white**.
 - The image is overlayed by a gradient with a default-color in **basic-black**.
@@ -49,7 +49,7 @@ It consists of an image and a text to underline the visual meaning.
 ## What can be modified?
 
 - Override the text.
-- Adjust the ratio to any size but please try to stick to a 4:3-ratio.
+- Adjust the ratio to any size.
 
 ### Our workflow in Sketch
 

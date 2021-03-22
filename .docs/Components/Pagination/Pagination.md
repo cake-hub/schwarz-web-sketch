@@ -20,14 +20,14 @@ It allows the user to jump to the respective pages by browsing.
 
 ## Overall styling
 
+- The text-style always is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is always **120%**.
+- The background is **basic-white**.
+- **Only arrows can be disabled!**
+- Use „arrow-left“ and „arrow-right“ as icons.
 - The width depends on the number of shown digits or arrows.
 - It is only scalable by adding up the digits or arrows.
-- The text-style always is **basic**.
-- The line-height is always **120%**.
-- The text is centered within the textbox.
-- The background is **basic-white**.
-- Use „arrow-left“ and „arrow-right“ as icons.
-- **Only arrows can be disabled!**
+- The text is centered within the text box.
 
 ![pagination overview](assets/overall@1x.png)
 

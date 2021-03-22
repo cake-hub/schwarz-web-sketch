@@ -25,8 +25,9 @@ This component is a pop-up box that appears when the user hovers over an element
 
 ## Overall styling
 
+- The text-style is [small](../../General/Typography/Typography.md#small).
+- The line-height is set to **default**.
 - The font-color is **basic-black**.
-- The text-style is **small**.
 - The background color is **basic-white**.
 - The outline color is **gray-light**.
 - The border has a **thickness of 1px**.

@@ -99,7 +99,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 ## Brand-navigation
 
 - Some SCHWARZ sub-brands have special pages to present their company (e.g. Twogo, Dieter Schwarz Stiftung, …).
-- The text-style is **small**.
+- The text-style is [small](../../General/Typography/Typography.md#small).
 - The indicator is displayed only in the **hover/focus** state.
 - The **length** of the indicator is based on the **entered text**.
 - A click on this navigation item opens a new tab in the user's browser.
@@ -136,11 +136,12 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ### Overall styling (LG & MD)
 
-- The text-style for main-navigation is **basic**.
+- The text-style for main-navigation is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 
 ### Extended
 
-- The text-style for sub-navigation is **small**.
+- The text-style for sub-navigation is [small](../../General/Typography/Typography.md#small).
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -150,7 +151,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ### Collapsed
 
-- The text-style for sub-navigation changes to **basic**.
+- The text-style for sub-navigation changes to [basic](../../General/Typography/Typography.md#basic).
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -161,8 +162,9 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ### Overall styling (SM & XS)
 
-- The text-style for main-navigation is **basic**.
-- The text-style for sub-navigation is **small**.
+- The text-style for main-navigation is [basic](../../General/Typography/Typography.md#basic).
+- The text-style for sub-navigation is [small](../../General/Typography/Typography.md#small).
+- The line-height is set to **default**.
 - The **length** of the indicator starts at beginning of the component.
 - Its position is at the bottom of the element.
 
@@ -191,7 +193,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 - Use this element only for tablets (portrait) and smartphones to demonstrate all navigation elements.
 - In contrast to the user-navigation, a **"menu"-text** is shown.
-- The text-style is always **small**.
+- The text-style is always [small](../../General/Typography/Typography.md#small).
 - It uses our **"bars-horizontal.svg"** icon to display a burger-menu.
 - The burger changes to our **"cross.svg"** icon as a close-function.
 
@@ -205,10 +207,10 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ## Flyout
 
-- The main-navigation and language selection on desktop and tablet (landscape) show a flyout **on hover/focus** with all possible options.
+- The main-navigation and language selection on desktop and tablet (landscape) show a flyout **on hover** with all possible options.
 - It comes with a background-color of **basic-white**.
 - It uses **shadow-default**.
-- It is located directly under the indicator of the hover/focus state.
+- It is located directly under the indicator of the hover state.
 
 | Types | Attributes | Preview |
 |--|---|---|
@@ -317,6 +319,8 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 - If **the first scroll-up** interaction is triggered, the whole header gets in its **extended** mode.
 - The animation of all elements starts with a global transition.
 - If a sub-navigation exists all main-navigation items are hidden.
+- Each menu item is clickable and the corresponding menu default page is loaded.
+- If a menu item does not have a separate default page, the content of the first sub-nav page is displayed.
 
 | Types | Preview |
 |---|---|
@@ -332,14 +336,20 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 | Scroll down (Collapsed)| 0.6s | 0.15s | presets ease in & out | 0.64, 0.04, 0.35, 1 |
 | Scroll up (Extended)| 0.4s | 0s | custom presets | 0.59, 0.06, 0.4, 0.95 |
 
+### Overflow Menu "More"
 
+- The last main- or sub-navigation item is displayed as an overflow menu named "more..." if too many items should be presented than the possibility to show them.
+- The keyword "more..." is only a recommended example and can be retitled to any appropriate term (i.e. "others…").
+- The more menu is treated like a main-nav item. The items inside the overflow menu behave like sub-nav items.
 
 ### Flyout
 
-- The main-navigation shows a flyout with all subitems **on hover/focus** to grant a direct access for the user.
+- The main-navigation shows a flyout with all subitems **on hover** to grant a direct access for the user.
 - The alignment of the flyout depends on the positioned main-menu item.
 - Therefore, the alignment can be left or right on the indicator.
 - On mobile devices, the flyout is triggered on hold-tap and is visible until a sub-navigation is selected.
+- The flyout **on focus** state is triggered by pressing Enter. To navigate through the elements, use the tab key or the up/down arrow on the keyboard.
+- A flyout element is to be used exclusively in the main-nav.
 
 | Types | Preview |
 |--|---|
@@ -349,8 +359,6 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ## Examples
 
-- The last main- or sub-navigation item is displayed as a "more..." menu item if too many items should be presented than the possibility to show them.
-- The keyword "more..." is only a recommended example and can be retitled to any appropriate term (i.e. "others…").
 - Clicking on the magnifier icon opens an active input-field that overlays the whole upper section (brand-, user-navigation and language selection) of the header.
 - In collapsed mode, the main-navigation fades out completely and only the search field is shown.
 
@@ -367,5 +375,5 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ### Our workflow in Sketch
 
-- To individualize the header in your product you need to detach/unlink the complete symbol from the CAKE UI Kit.
+- To individualize the header in your product you need to detach/unlink the complete symbol from the SCHWARZ CAKE UI Web kit.
 - Fill it with realistic content and scale every single symbol to the right width or height.

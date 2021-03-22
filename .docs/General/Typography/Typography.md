@@ -8,82 +8,91 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
-## Typefaces
+## Helvetica Neue LT Pro
 
 - The Helvetica Neue displays the **functional** and **objective** style that was characteristic of fonts in the 1950s and 60s.
+- The defined base color for all text-styles is **basic-black**.
+- Use any color of **brand-primary**, **brand-secondary**, **brand-info**, **brand-attention**, **gray**, **danger** or **success** as text color as long as it has a high contrast ratio in interaction with backgrounds.
+
+> - All types of headings should primarily be used in **single line scenarios**.
+> - All text-styles are set to a letter-spacing of **0.2px**.
+> - Capital letters are not allowed!
+
 
 ![Light Condensed](assets/typeface/light-condensed@1x.png)<br>
 ![Medium Condensed](assets/typeface/medium-condensed@1x.png)<br>
 
----
-
-## Overall styling
-- **Capital letters are not allowed!**
-- All text-styles are set to a letter-spacing of **0.2px**.
-- All types of headings should primarily be used in **single line scenarios**.
-- The defined base color for all text-styles is **basic-black**.
-- Use any color of **brand-primary**, **brand-secondary**, **brand-info**, **brand-attention**, **gray**, **danger** or **success** as text color as long as it has a high contrast ratio in interaction with backgrounds.
+| Typeface | Text-style | Usage |
+|---|---|---|
+| Light Condensed | Small, Basic, Large, Button text | for body text, links, tables, lists, input-fields, etc. |
+| Medium Condensed | Small Bold, Basic Bold, Large Bold, Headlines, Displays  | for headlines, labels, highlights, etc. |
 
 ---
 
-## Light Condensed
+## Small
 
-- It is mainly used, i. e. for body text, links, tables, lists, input fields, etc.
+- The typeface is always **light condensed**.
 - The line height is always **140%**.
-
-### Small
+- Left, center, and right alignment are available for this font style.
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
 | LG | 14px | ![small condensed (LG)](assets/small/light-condensed/LG@1x.png) |
 | MD-XS | 12px | ![small condensed (MD-XS)](assets/small/light-condensed/MD-XS@1x.png) |
 
-### Basic
+## Small Bold
 
-| Breakpoint | Font size | Preview |
-|---|---|---|
-| LG | 18px | ![basic condensed (LG)](assets/basic/light-condensed/LG@1x.png) |
-| MD-XS | 16px | ![basic condensed (MD-XS)](assets/basic/light-condensed/MD-XS@1x.png) |
-
-### Large
-
-| Breakpoint | Font size | Preview |
-|---|---|---|
-| LG | 22px |![large condensed (LG)](assets/large/light-condensed/LG@1x.png) |
-| MD-XS | 20px | ![large condensed (MD-XS)](assets/large/light-condensed/MD-XS@1x.png) |
-
-### Button text
-
-- The text-style is only used in the button component.
-- The line height is **120%**.
-
-| Breakpoint | Font size | Preview |
-|---|---|---|
-| LG | 18px | ![Button text](assets/button/LG@1x.png) |
-| MD-XS | 16px | ![Button text](assets/button/MD-XS@1x.png) |
-
----
-
-## Medium condensed
-
-- It is mainly used, i. e. for headlines, labels, highlights.
+- The typeface is always **medium condensed**.
 - The line height is always **140%**.
-
-### Small Bold
+- Left, center, and right alignment are available for this font style.
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
 | LG | 14px | ![small medium-condensed (LG)](assets/small/medium-condensed/LG@1x.png) |
 | MD-XS | 12px | ![small medium-condensed (MD-XS)](assets/small/medium-condensed/MD-XS@1x.png) |
 
-### Basic Bold
+---
+
+## Basic
+
+- The typeface is always **light condensed**.
+- The line height is always **140%**.
+- Left, center, and right alignment are available for this font style.
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 18px | ![basic condensed (LG)](assets/basic/light-condensed/LG@1x.png) |
+| MD-XS | 16px | ![basic condensed (MD-XS)](assets/basic/light-condensed/MD-XS@1x.png) |
+
+## Basic Bold
+
+- The typeface is always **medium condensed**.
+- The line height is always **140%**.
+- Left, center, and right alignment are available for this font style.
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
 | LG | 18px | ![basic medium-condensed (LG)](assets/basic/medium-condensed/LG@1x.png) |
 | MD-XS | 16px | ![basic medium-condensed (MD-XS)](assets/basic/medium-condensed/MD-XS@1x.png) |
 
-### Large Bold
+---
+
+## Large
+
+- The typeface is always **light condensed**.
+- The line height is always **140%**.
+- Left, center, and right alignment are available for this font style.
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 22px |![large condensed (LG)](assets/large/light-condensed/LG@1x.png) |
+| MD-XS | 20px | ![large condensed (MD-XS)](assets/large/light-condensed/MD-XS@1x.png) |
+
+## Large Bold
+
+- The typeface is always **medium condensed**.
+- The line height is always **140%**.
+- Left, center, and right alignment are available for this font style.
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
@@ -92,60 +101,73 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
-## Page headlines
+## Button text
+
+- The text-style is only used in the button component.
+- The typeface is always **light condensed**.
+- The line height is always **120%**.
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 18px | ![Button text](assets/button/LG@1x.png) |
+| MD-XS | 16px | ![Button text](assets/button/MD-XS@1x.png) |
+
+---
+
+## Headlines
 
 - The page headlines are displayed in 5 levels.
 - All levels have different font sizes.
 - There are fixed font sizes from level 5 to level 1.
-- The typeface is always **medium-condensed**.
+- The typeface is always **medium condensed**.
 - The line height is always **120%**.
+- Left, center, and right alignment are available for all headline levels.
 
-### Page headline (Level 1)
-
-| Breakpoint | Font size | Preview |
-|---|---|---|
-| LG | 34px | ![page headline 1 (LG)](assets/headlines/page/level-1/LG@1x.png)
-| MD-XS | 32px | ![page headline 1 (MD-XS)](assets/headlines/page/level-1/MD-XS@1x.png) |
-
-### Page headline (Level 2)
+### Headline (Level 1)
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
-| LG | 30px | ![page headline 2 (LG) ](assets/headlines/page/level-2/LG@1x.png) |
-| MD-XS | 28px | ![page headline 2 (MD-XS)](assets/headlines/page/level-2/MD-XS@1x.png) |
+| LG | 34px | ![headline 1 (LG)](assets/headlines/level-1/LG@1x.png)
+| MD-XS | 32px | ![headline 1 (MD-XS)](assets/headlines/level-1/MD-XS@1x.png) |
 
-### Page headline (Level 3)
-
-| Breakpoint | Font size | Preview |
-|---|---|---|
-| LG | 26px | ![page headline 3 (LG) ](assets/headlines/page/level-3/LG@1x.png) |
-| MD-XS | 24px | ![page headline 3 (MD-XS)](assets/headlines/page/level-3/MD-XS@1x.png) |
-
-### Page headline (Level 4)
+### Headline (Level 2)
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
-| LG | 22px | ![page headline 4 (LG) ](assets/headlines/page/level-4/LG@1x.png) |
-| MD-XS | 20px | ![page headline 4 (MD-XS)](assets/headlines/page/level-4/MD-XS@1x.png) |
+| LG | 30px | ![headline 2 (LG) ](assets/headlines/level-2/LG@1x.png) |
+| MD-XS | 28px | ![headline 2 (MD-XS)](assets/headlines/level-2/MD-XS@1x.png) |
 
-### Page headline (Level 5)
+### Headline (Level 3)
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
-| LG | 18px | ![page headline 5 (LG) ](assets/headlines/page/level-5/LG@1x.png) |
-| MD-XS | 16px | ![page headline 5 (MD-XS)](assets/headlines/page/level-5/MD-XS@1x.png) |
+| LG | 26px | ![headline 3 (LG) ](assets/headlines/level-3/LG@1x.png) |
+| MD-XS | 24px | ![headline 3 (MD-XS)](assets/headlines/level-3/MD-XS@1x.png) |
 
+### Headline (Level 4)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 22px | ![headline 4 (LG) ](assets/headlines/level-4/LG@1x.png) |
+| MD-XS | 20px | ![headline 4 (MD-XS)](assets/headlines/level-4/MD-XS@1x.png) |
+
+### Headline (Level 5)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 18px | ![headline 5 (LG) ](assets/headlines/level-5/LG@1x.png) |
+| MD-XS | 16px | ![headline 5 (MD-XS)](assets/headlines/level-5/MD-XS@1x.png) |
 
 ---
-
 
 ## Displays
 
 - The display text-style is defined in 5 levels.
 - All levels have different font sizes.
 - There are fixed font sizes from level 5 to level 1.
-- The typeface is always **medium-condensed**.
+- The typeface is always **medium condensed**.
 - The line height is always **120%**.
+- Left, center, and right alignment are available for all display levels.
 
 ### Display (Level 1)
 
@@ -199,7 +221,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 | Type | Attributes | Preview |
 |---|---|---|
-| Vertical spacing | 32px between **Page headline (Level 1)** and other headlines or body text<br><br>16px between **Page headline (Level 2)** and other headlines or body text<br><br>8px between **Page headline (Level 3)** and other headlines or body text<br><br>32px between body text and body text or headlines<br><br>8px between **Page headline (Level 4)** and other headlines or body text<br><br>8px between **Page headline (Level 5)** and other headlines or body text | ![spacing: forms](assets/measurements/body@1x.png) |
+| Vertical spacing | 32px between **Headline (Level 1)** and other headlines or body text<br><br>16px between **Headline (Level 2)** and other headlines or body text<br><br>8px between **Headline (Level 3)** and other headlines or body text<br><br>32px between body text and body text or headlines<br><br>8px between **Headline (Level 4)** and other headlines or body text<br><br>8px between **Headline (Level 5)** and other headlines or body text | ![spacing: forms](assets/measurements/body@1x.png) |
 
 ---
 

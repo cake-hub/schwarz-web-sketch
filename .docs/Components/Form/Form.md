@@ -31,7 +31,8 @@ They are an important elements on websites, so it is even more essential that th
 
 ## Overall styling
 
-- Text-style is **basic**.
+- Text-style is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - Borders have a **1px** thickness.
 - Hover or focus states are always shown with a border in **brand-primary-base**.
 - Icon size is **24x24px**.
@@ -138,6 +139,6 @@ They are an important elements on websites, so it is even more essential that th
 
 - Use the "Overrides"-function to enter text.
 - Fill in "space" to show an empty input-or select field.
-- Demonstrate the "hover" for "placeholder" and "default" by changing the outline color.
-- If you don't want to show an icon, just select "None" in the "Overrides"-function.
+- Demonstrate the different states by changing the pre-defined layer-style.
+- If you don't want to show an icon, just select "Default" in the "Overrides"-function from the checkbox layer-styles.
 - Pick the label symbol out of the library.

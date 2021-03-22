@@ -7,6 +7,8 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 This element indicates that the user is on a sub-brand page of SCHWARZ Enterprise. It also provides a "back-to-top" scrolling function.
 
+It only exists in combination with our [footer](../Footer/Footer.md) and has a fixed order that must be followed at the end of each web page.
+
 ---
 
 ## Recommendations
@@ -29,9 +31,9 @@ The sticky bar is built from the following elements:
 
 ## Overall Styling
 
-- The background-color is always **brand-primary-base**.
-- Text style for the "to top"-button-text is always **small**.
+- Text-style for the "to top"-button-text is always [small](../../General/Typography/Typography.md#small).
 - The line height for the "to top"-button-text is **120%**.
+- The background-color is always **brand-primary-base**.
 - The icon is always "arrow-up.svg".
 
 
@@ -69,6 +71,12 @@ The sticky bar is built from the following elements:
 | Icon size| 16 x 16px |![Icon-size](assets/measurements/icon-size@1x.png)|
 
 ---
+
+## Example
+
+ ![sticky bar: example](assets/example/sticky-bar-example.gif)
+
+ ---
 
 ## What can be modified?
 

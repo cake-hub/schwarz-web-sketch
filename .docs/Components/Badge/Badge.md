@@ -30,9 +30,9 @@ Basically it is positioned in a context with a text.
 
 ## Overall styling
 
-- The text-style or font-size depends on the component but is always **bold**.
-- The text-color always is **basic-white**.
+- The text-style or font-size depends on the selected component size.
 - The line-height is **120%**.
+- The text-color always is **basic-white**.
 - The border is in **basic-white** with a **1px thickness**.
 - It always has rounded corners of **50% of its height**.
 
@@ -47,8 +47,8 @@ Basically it is positioned in a context with a text.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Primary | text-style: small, basic, large<br>background-color: brand-primary-base | ![primary: LG](assets/standard/LG/primary@1x.png) |
-| Info | text-style: small, basic, large<br>background-color: info-base | ![info: LG](assets/standard/LG/info@1x.png)|
+| Primary | text-style: [small,](../../General/Typography/Typography.md#light-condensed-small) [basic,](../../General/Typography/Typography.md#light-condensed-basic) [large](../../General/Typography/Typography.md#large)<br>background-color: brand-primary-base | ![primary: LG](assets/standard/LG/primary@1x.png) |
+| Info | text-style: [small,](../../General/Typography/Typography.md#light-condensed-small) [basic,](../../General/Typography/Typography.md#light-condensed-basic) [large](../../General/Typography/Typography.md#large)<br>background-color: info-base | ![info: LG](assets/standard/LG/info@1x.png)|
 
 ### States
 

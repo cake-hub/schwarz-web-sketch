@@ -22,8 +22,8 @@ The card is a basic component which can be combined with other components (e.g.:
 
 ## Overall styling
 
-- The text style of the title is **basic**.
-- The text style of the description is **small**.
+- The text style of the title is [basic](../../General/Typography/Typography.md#basic).
+- The text style of the description is [small](../../General/Typography/Typography.md#small).
 - The line-height is **120%**.
 - The image ratio always is **4:3**.
 - Every state uses the **shadow-default**.

@@ -18,7 +18,8 @@ It is positioned near the header and is used primarily as a visual display to th
 
 ## Overall styling
 
-- The text-style always is **small**.
+- The text-style always is [small](../../General/Typography/Typography.md#small).
+- The line-height is set to **default**.
 - The hover state changes the **mouse cursor into a link cursor (pointer).**
 - Always use **house.svg** as home-icon and **arrow-right.svg** as separator.
 

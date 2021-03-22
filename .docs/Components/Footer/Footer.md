@@ -7,6 +7,8 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 Use the footer to help the customer with additional information and navigation at the bottom of a website.
 
+It only exists in combination with our [sticky bar](../Sticky%20bar/Sticky%20bar.md) and has a fixed order that must be followed at the end of each web page.
+
 ---
 
 ## Recommendations
@@ -40,14 +42,15 @@ The default footer contains the following elements:
 
 - The background-color always is **gray-dark**.
 - The divider width depends on the breakpoint but always has a **height of 1px** and the color **gray-base**.
+- The line-height is set to **default**.
 
 ### Default
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Headline | text-style: headline 5<br>text-color: gray-lighter | ![headline: default](assets/elements/headline/default@1x.png) |
-| Main-Navigation | text-style: basic<br>text-color: gray-lighter | ![main-nav: default](assets/elements/main-nav/default@1x.png) |
-| Meta-Navigation | text-style: basic<br>text-color: gray-lighter | ![meta-nav: default](assets/elements/meta-nav/default@1x.png)|
+| Headline | text-style: [headline 5](../../General/Typography/Typography.md#headlines-headline-level-5)<br>text-color: gray-lighter | ![headline: default](assets/elements/headline/default@1x.png) |
+| Main-Navigation | text-style: [basic](../../General/Typography/Typography.md#basic)<br>text-color: gray-lighter | ![main-nav: default](assets/elements/main-nav/default@1x.png) |
+| Meta-Navigation | text-style: [basic](../../General/Typography/Typography.md#basic)<br>text-color: gray-lighter | ![meta-nav: default](assets/elements/meta-nav/default@1x.png)|
 
 ### Hover, focus, active
 
@@ -92,6 +95,12 @@ The default footer contains the following elements:
 |![footer: 3 cols](assets/variants/LG/3cols@1x.png)|![footer: 4 cols](assets/variants/LG/4cols@1x.png)|
 
 ---
+
+## Example
+
+ ![sticky bar: example](assets/example/sticky-bar-example.gif)
+
+ ---
 
 ## What can be modified?
 

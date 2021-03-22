@@ -18,10 +18,10 @@ Different types of notifications with contextual feedback about user actions as 
 
 ## Overall styling
 
-- The text style is **large-bold** for the **title** and **basic** for the **text**.
+- The text-style is [large bold](../../General/Typography/Typography.md#large-bold) for the **title** and [basic](../../General/Typography/Typography.md#basic) for the **text**.
+- The line-height for the "alert title" is **120%**, it stays **140%** for the "alert text".
 - Every variant uses **basic-white** as background-color.
 - The border has a **thickness of 1px**.
-- The line-height for the "alert title" is **120%**, it stays **140%** for the "alert text".
 - All widths are individually adjustable and fit into the layout columns and the 8-point-grid.
 - The height depends on the content and the additional components shown.
 - Every alert comes with the icon "cross.svg" as "close"-icon in the right upper corner.
