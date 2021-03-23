@@ -16,7 +16,7 @@ Don't worry! Replacing symbols in layer-styles is not as complicated as it seems
 
 ### Replace color symbols
 
-- As a result of the removal of the color icons from the pur LIDL CAKE UI Fundamental library, you should replace these icons in your components with our new layer styles.
+- As a result of the removal of the color icons from the pur SCHWARZ CAKE UI Fundamental library, you should replace these icons in your components with our new layer styles.
 - Here is a short workaround on how you can do this most easily and efficiently.
 
 | Steps | Description | Preview |
