@@ -13,7 +13,10 @@ Use the different flashes to emphasize messages with a strong meaning.
 ## Recommendations
 
 - All flash elements should be used sparingly to avoid overload.
-- Please use the marker only for a maximum text length of one to four lines.
+- Please use the marker only for **one to three words**. 
+- When entering text, mobile view (MD-XS) should be taken into consideration first.
+- When entering longer text, the element grows only in height and becomes multiline up to a maximum number of 4 lines (LG-XS).
+- Too long text is truncated with ellipsis.
 
 ---
 
@@ -32,8 +35,6 @@ Use the different flashes to emphasize messages with a strong meaning.
 | Types | Attributes | Preview |
 |---|---|---|
 | Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![primary](assets/types/primary@1x.png) |
-| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![secondary](assets/types/secondary@1x.png)|
-| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![info](assets/types/info@1x.png) |
 | Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![attention](assets/types/attention@1x.png) |
 
 ---

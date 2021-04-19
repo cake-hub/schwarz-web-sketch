@@ -13,6 +13,7 @@ It consists of an image and a text to underline the visual meaning.
 ## Recommendations
 
 - Use the title and subhead **only in a single-line scenario** to ensure a good readability and accessibility to avoid low contrast.
+- The text will be truncated if too much text is entered.
 - Try to keep the 4:3 ratio to guarantee the right display in each breakpoint.
 - Otherwise it’s ratio is completely free adjustable.
 

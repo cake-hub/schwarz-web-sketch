@@ -13,8 +13,10 @@ Use the different flashes to emphasize messages with a strong meaning.
 ## Recommendations
 
 - All flash elements should be used sparingly to avoid overload.
-- Please use the corner only for a single line text or just for one word.
-
+- Please use the corner only for **one to three words**. 
+- When entering text, mobile view (MD-XS) should be taken into consideration first.
+- Too long text is truncated with ellipsis.
+  
 ---
 
 ## Overall styling
@@ -33,8 +35,6 @@ Use the different flashes to emphasize messages with a strong meaning.
 | Types | Attributes | Preview |
 |---|---|---|
 | Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![primary](assets/types/primary@1x.png) |
-| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![secondary](assets/types/secondary@1x.png)|
-| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![info](assets/types/info@1x.png) |
 | Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![attention](assets/types/attention@1x.png) |
 
 ---
@@ -58,6 +58,7 @@ Use the different flashes to emphasize messages with a strong meaning.
 | Horizontal spacing | padding: 8px | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
 | Vertical spacing | the text is always optically vertically centered | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
 | Height | LG: 36px<br>MD-XS: 32px  | ![Height](assets/measurements/height@1x.png) |
+| Width | LG: 272px<br>MD-XS: 244px <br>([Explanation](/Schwarz/Web/Bootstrap_Theme/Components/Flash_-_Corner/Flash_-_Corner.md#magic-numbers)) | ![Width](assets/measurements/width@1x.png) |
 | Angle | inner angle: 45° | ![rotation](assets/measurements/angle@1x.png)
 
 ---

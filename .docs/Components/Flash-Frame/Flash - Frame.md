@@ -13,7 +13,10 @@ Use the different flashes to emphasize messages with a strong meaning.
 ## Recommendations
 
 - All flash elements should be used sparingly to avoid overload.
-- Please use the corner only for a maximum text length of two lines.
+- Please use the frame only for **one to three words**. 
+- When entering text, mobile view (MD-XS) should be taken into consideration first.
+- The frame grows with the content up to a max-width of 50% of the parent element.
+- Too long text is truncated with ellipsis.
 
 ---
 
@@ -33,8 +36,6 @@ Use the different flashes to emphasize messages with a strong meaning.
 | Types | Attributes | Preview |
 |---|---|---|
 | Primary (positive) | text-color: basic-white<br>background-color: brand-primary-base | ![left: primary](assets/types/primary@1x.png) |
-| Secondary (positive) | text-color: basic-white<br>background-color: brand-secondary-base | ![left: secondary](assets/types/secondary@1x.png)|
-| Info (positive) | text-color: basic-white<br>background-color: brand-info-darker | ![left: info](assets/types/info@1x.png) |
 | Attention (negative) | text-color: basic-black<br>background-color: brand-attention-base | ![left: attention](assets/types/attention@1x.png) |
 
 ---
