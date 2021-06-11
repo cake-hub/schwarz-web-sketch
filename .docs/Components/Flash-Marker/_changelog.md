@@ -1,5 +1,12 @@
 # Change log
 
+## [5.0.2 Fundamental](https://github.com/cake-hub/schwarz-sketch/tree/v5.0.2) & [5.0.2 Web](https://github.com/cake-hub/schwarz-web-sketch/tree/v5.0.2) - 2021-06-11
+
+### Removed
+
+* `Doc`: "Flash-Marker" | The height measurement is obsolete
+
+
 ## [5.0.1 Fundamental](https://github.com/cake-hub/schwarz-sketch/tree/v5.0.1) & [5.0.1 Web](https://github.com/cake-hub/schwarz-web-sketch/tree/v5.0.1) - 2021-04-19
 
 ### Added

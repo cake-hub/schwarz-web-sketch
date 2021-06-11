@@ -21,7 +21,7 @@ It consists of an image and a text to underline the visual meaning.
 
 ## Overall styling
 
-- The title uses the text-style [large-bold](../../General/Typography/Typography.md#medium-condensed-large-bold).
+- The title uses the text-style [large-bold](../../General/Typography/Typography.md#large-bold).
 - The subhead comes in the text-style [basic](../../General/Typography/Typography.md#basic).
 - The line-height is always **120%**.
 - The title and and the subhead text-color is **basic-white**.

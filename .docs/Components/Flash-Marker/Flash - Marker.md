@@ -53,7 +53,6 @@ Use the different flashes to emphasize messages with a strong meaning.
 |---|---|---|
 | Horizontal spacing | 8px | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)|
 | Vertical spacing | padding-top: 16px | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
-| Height | LG: 48px<br>MD-XS: 44px  | ![height](assets/measurements/height@1x.png) |
 | Width | LG: 136px<br>MD-XS: 120px | ![Width](assets/measurements/width@1x.png) |
 | Angle | inner angle: 128°<br>outer angle: 26° | ![angle](assets/measurements/angle@1x.png)
 

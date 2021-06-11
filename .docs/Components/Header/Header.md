@@ -345,6 +345,9 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 ### Flyout
 
 - The main-navigation shows a flyout with all subitems **on hover** to grant a direct access for the user.
+- Ends 40px from browser bottom edge or 8px from sticky bar.
+- Maximal width is 33% of viewport width.
+- Text breaks into multiple lines when maximal width is overreached.
 - The alignment of the flyout depends on the positioned main-menu item.
 - Therefore, the alignment can be left or right on the indicator.
 - On mobile devices, the flyout is triggered on hold-tap and is visible until a sub-navigation is selected.
