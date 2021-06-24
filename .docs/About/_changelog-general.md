@@ -1,5 +1,12 @@
 # Change log
 
+## [5.1.0 Fundamental](https://github.com/cake-hub/schwarz-sketch/tree/v5.1.0) & [5.1.0 Web](https://github.com/cake-hub/schwarz-web-sketch/tree/v5.1.0) - 2021-06-24
+
+### Highlights
+
+* `Doc`: "Motion" | Brand new: The topic of motion was viewed globally and serves as an orientation for motion effects in every digital environment
+
+
 ## [5.0.2 Fundamental](https://github.com/cake-hub/schwarz-sketch/tree/v5.0.2) & [5.0.2 Web](https://github.com/cake-hub/schwarz-web-sketch/tree/v5.0.2) - 2021-06-11
 
 ### Changed
