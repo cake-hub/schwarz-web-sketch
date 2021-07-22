@@ -39,7 +39,7 @@ The card is a basic component which can be combined with other components (e.g.:
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

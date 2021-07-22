@@ -21,7 +21,7 @@ A component to organize and navigate between related content at the same level o
 - Text-style is [basic](../../General/Typography/Typography.md#basic).
 - The line-height is **120%**.
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 - Dividers come in **gray-dark** as color with a **1px thickness**.
 - The width is only scalable by adding up the different symbols (left, center or right).
@@ -44,7 +44,7 @@ A component to organize and navigate between related content at the same level o
 | Center | divider: left  | ![tab: center (LG/MD)](assets/elements/LG/center@1x.png) |
 | Right | divider: left | ![tab: right (LG/MD)](assets/elements/LG/right@1x.png) |
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 - There is **no inactive state**.
 - The states can be switched via the slider-buttons.
@@ -59,9 +59,9 @@ A component to organize and navigate between related content at the same level o
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -69,7 +69,7 @@ A component to organize and navigate between related content at the same level o
 | Vertical spacing | padding: 16px | ![LG/MD: horizontal spacing](assets/measurements/LG/vertical-spacing@1x.png) |
 
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 | Types | Attributes | Preview |
 |---|---|---|

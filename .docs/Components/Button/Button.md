@@ -116,7 +116,7 @@ The actions can be separated into two buttons. The design of two different butt
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview |
 |---|---|---|

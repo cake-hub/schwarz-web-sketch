@@ -47,8 +47,8 @@ Basically it is positioned in a context with a text.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Primary | text-style: [small,](../../General/Typography/Typography.md#light-condensed-small) [basic,](../../General/Typography/Typography.md#light-condensed-basic) [large](../../General/Typography/Typography.md#large)<br>background-color: brand-primary-base | ![primary: LG](assets/standard/LG/primary@1x.png) |
-| Info | text-style: [small,](../../General/Typography/Typography.md#light-condensed-small) [basic,](../../General/Typography/Typography.md#light-condensed-basic) [large](../../General/Typography/Typography.md#large)<br>background-color: info-base | ![info: LG](assets/standard/LG/info@1x.png)|
+| Primary | text-style: [small,](../../General/Typography/Typography.md#small) [basic,](../../General/Typography/Typography.md#basic) [large](../../General/Typography/Typography.md#large)<br>background-color: brand-primary-base | ![primary: LG](assets/standard/LG/primary@1x.png) |
+| Info | text-style: [small,](../../General/Typography/Typography.md#small) [basic,](../../General/Typography/Typography.md#basic) [large](../../General/Typography/Typography.md#large)<br>background-color: info-base | ![info: LG](assets/standard/LG/info@1x.png)|
 
 ### States
 
@@ -99,7 +99,7 @@ Basically it is positioned in a context with a text.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - Note that the badge element has a **1px basic-white** border.
 
@@ -108,9 +108,7 @@ Basically it is positioned in a context with a text.
 | Types | Attributes | Preview |
 |---|---|---|
 | Horizontal spacing | padding: 16px | ![horizontal-spacing](assets/measurements/standard/horizontal-spacing@1x.png) |
-| Vertical spacing | text optically, vertically centered | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
-| Height (LG) | small: 27px<br>basic: 32px<br>large: 37px | ![height (LG)](assets/measurements/standard/height/LG@1x.png) |
-| Height (MD-XS) | small: 25px<br>basic: 30px<br>large: 35px | ![height (LG)](assets/measurements/standard/height/MD-XS@1x.png) |
+| Vertical spacing | text optically, vertically centered<br> LG-XS padding: 4px | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
 | Distances | margin: 8px | ![distance](assets/measurements/standard/distance@1x.png) |
 
 ### Addon

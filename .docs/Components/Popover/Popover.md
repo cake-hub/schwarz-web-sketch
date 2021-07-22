@@ -82,7 +82,7 @@ This component is a pop-up box that appears when the user hovers over an element
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 | --- | --- | --- |

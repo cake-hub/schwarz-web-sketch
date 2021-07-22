@@ -63,7 +63,7 @@ They have to agree to the cookie settings of websites to visit and interact with
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - The overall padding is **16px**.
 

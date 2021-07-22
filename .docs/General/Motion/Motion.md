@@ -6,7 +6,7 @@ It is mandatory to maintain the appearance and behavior of these motions.
 
 For SCHWARZ Brand, an effective UI animation makes a visual statement that combines both form and function. It enhances visual feedback, facilitates orientation and directs users' attention. The SCHWARZ Brand animation effects enhance a sense of causal relationships and bring a distinct personality.
 
-## General Principles
+## General principles
 
 The core principles of the SCHWARZ Brand identity are **proximity**, **diversity** and **foresight**.
 
@@ -14,7 +14,7 @@ The core principles of the SCHWARZ Brand identity are **proximity**, **diversity
 ---------|----------|---------
 As a leading retailer, SCHWARZ Group is a part of the daily lives of millions of people and it is serving people's needs on a local level. | SCHWARZ Group has diverse fields of activity – the entire value chain of food goods, from production to distribution/trade, to disposal and recycling. Diversity is also reflected in international orientation and the different cultural environments in which retail formats operate. | SCHWARZ Group is farsighted in regard to the customer experience and sets its course today in order to be successful tomorrow. New challenges such as digitalization are seen as opportunities and are embraced in business models.
 
-## Motion Principles
+## Motion principles
 
 Motion principles exist to ensure that SCHWARZ core brand principles are conveyed through animation.
 

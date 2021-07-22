@@ -36,7 +36,7 @@ Parts of the content are hidden in a container and only displayed by the user's 
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - Width depends on device and usage.
 - Only the height for the content symbol is free adjustable.
@@ -55,7 +55,7 @@ Parts of the content are hidden in a container and only displayed by the user's 
 
 | Types | Attributes | Preview
 |---|---|---|
-| Spacing | 8px between different components<br>content opens downwards | ![measurements: spacing](assets/measurements/spacing@1x.png) |
+| Spacing | 8px between different components<br>content opens downwards. | ![measurements: spacing](assets/measurements/spacing@1x.png) |
 
 ---
 

@@ -125,12 +125,12 @@ They are an important elements on websites, so it is even more essential that th
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview
 |---|---|---|
-| Horizontal  | 8px margin between radiobutton (or checkbox) and optional text <br> 8px margin between label and optional text <br> 16px padding| ![spacing radiobutton](assets/measurements/radiobutton/spacing@1x.png) <br> ![spacing checkbox](assets/measurements/checkbox/spacing@1x.png)  <br>  ![spacing input field](assets/measurements/input-field/spacing@1x.png) |
-| Height | LG: 48px<br>MD-XS: 40px<br>Width depends on device and usage | ![measurements: height](assets/measurements/input-field/height@1x.png) |
+| Horizontal  | 8px margin between radiobutton (or checkbox) and optional text. <br> 8px margin between label and optional text. <br> 16px padding | ![spacing radiobutton](assets/measurements/radiobutton/spacing@1x.png) <br> ![spacing checkbox](assets/measurements/checkbox/spacing@1x.png)  <br>  ![spacing input field](assets/measurements/input-field/spacing@1x.png) |
+| Height | LG: 48px<br>MD-XS: 40px<br>Width depends on device and usage. | ![measurements: height](assets/measurements/input-field/height@1x.png) |
 | Distance | 8px between form and label<br>32px between form blocks | ![spacing: forms](assets/measurements/input-field/forms@1x.png) |
 
 ---

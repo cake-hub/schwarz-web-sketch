@@ -38,7 +38,7 @@ The default footer contains the following elements:
 
 ---
 
-## Overall Styling
+## Overall styling
 
 - The background-color always is **gray-dark**.
 - The divider width depends on the breakpoint but always has a **height of 1px** and the color **gray-base**.
@@ -62,7 +62,7 @@ The default footer contains the following elements:
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 ### Complete
 

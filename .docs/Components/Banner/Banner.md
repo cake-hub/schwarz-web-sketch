@@ -73,7 +73,7 @@ This focus is underlined with the help of a headline, text and image to give the
 ---
 
 
-## Spacing & Measurements
+## Spacing & measurements
 
 ### Spacing
 
@@ -102,25 +102,25 @@ This focus is underlined with the help of a headline, text and image to give the
 
 > Note: <br>Depending on the design requirements, it is possible to use a different number of columns for the flat brand element on LG than on MD. This offers a creative freedom to present the content on different touchpoints in an optimal way.
 
-#### Default Positive LG-XS overview
+#### Default positive LG-XS overview
 
 ![example: default positive LG-XS](assets/examples/default/positive/LG-XS@1x.png)
 
 ---
 
-#### Inverted Positive LG-XS overview
+#### Inverted positive LG-XS overview
 
 ![example: default positive LG-XS](assets/examples/inverted/positive/LG-XS@1x.png)
 
 ---
 
-#### Default Negative LG-XS overview
+#### Default negative LG-XS overview
 
 ![example: default positive LG-XS](assets/examples/default/negative/LG-XS@1x.png)
 
 ---
 
-#### Inverted Negative LG-XS overview
+#### Inverted negative LG-XS overview
 
 ![example: default positive LG-XS](assets/examples/inverted/negative/LG-XS@1x.png)
 

@@ -47,7 +47,7 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ---
 
-### Spacing & Measurements
+### Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

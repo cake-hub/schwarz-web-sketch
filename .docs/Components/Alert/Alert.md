@@ -68,7 +68,7 @@ Some alerts use links to direct the user to another page.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

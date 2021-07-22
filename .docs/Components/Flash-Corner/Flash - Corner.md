@@ -29,7 +29,7 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ## Variants
 
-- The corner element is available in different colors, which are subcategorized into: **positive** and **negative**
+- The corner element is available in different colors, which are subcategorized into: **positive** and **negative**.
 - There is an additional separation into **top** and **bottom** due to the readability of the text.
 
 | Types | Attributes | Preview |
@@ -49,7 +49,7 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ---
 
-### Spacing & Measurements
+### Spacing & measurements
 
 - The width of the corner component depends on the content.
 

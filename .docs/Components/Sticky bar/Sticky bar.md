@@ -1,5 +1,5 @@
 <AlertInfo alertHeadline="Modifiable">
-Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
+Please ensure to comply with the corporate identity. [What can be modified](#what-can-be-modified)?
 </AlertInfo>
 
 
@@ -29,7 +29,7 @@ The sticky bar is built from the following elements:
 
 ---
 
-## Overall Styling
+## Overall styling
 
 - Text-style for the "to top"-button-text is always [small](../../General/Typography/Typography.md#small).
 - The line height for the "to top"-button-text is **120%**.
@@ -54,7 +54,7 @@ The sticky bar is built from the following elements:
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - The background expands over the whole screen.
 - The sender badge's height scales to the complete element height depending on the viewport.

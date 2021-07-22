@@ -29,7 +29,7 @@ It is positioned near the header and is used primarily as a visual display to th
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - If the breadcrumb is larger than the viewport it breaks in a second line.
 - Normally, there are not more than 5 levels shown.

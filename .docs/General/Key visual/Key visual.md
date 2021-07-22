@@ -27,7 +27,7 @@ The key visual is an illustrative sign to emphasize individual content.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - In combination with a text, the height of the key visual is based on the verse height of the text.
 

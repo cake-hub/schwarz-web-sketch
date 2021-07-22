@@ -40,7 +40,7 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 14px | ![small condensed (LG)](assets/small/light-condensed/LG@1x.png) |
 | MD-XS | 12px | ![small condensed (MD-XS)](assets/small/light-condensed/MD-XS@1x.png) |
 
-## Small Bold
+## Small bold
 
 - The typeface is always **medium condensed**.
 - The line height is always **140%**.
@@ -64,7 +64,7 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 18px | ![basic condensed (LG)](assets/basic/light-condensed/LG@1x.png) |
 | MD-XS | 16px | ![basic condensed (MD-XS)](assets/basic/light-condensed/MD-XS@1x.png) |
 
-## Basic Bold
+## Basic bold
 
 - The typeface is always **medium condensed**.
 - The line height is always **140%**.
@@ -88,7 +88,7 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 22px |![large condensed (LG)](assets/large/light-condensed/LG@1x.png) |
 | MD-XS | 20px | ![large condensed (MD-XS)](assets/large/light-condensed/MD-XS@1x.png) |
 
-## Large Bold
+## Large bold
 
 - The typeface is always **medium condensed**.
 - The line height is always **140%**.
@@ -217,7 +217,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview |
 |---|---|---|

@@ -30,7 +30,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 - There is a separate header layout for tablets (portrait) and smartphones that opens a dropdown menu with the main- and sub-navigation over a burger-menu icon.
 - The header contains the **logo**, **typography: main-, sub-, brand-** and **user-navigation**, as well as **colors** and **shadows**.
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 #### Extended
 
@@ -48,11 +48,11 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 1. Brand-navigation
 1. Language
 1. User-navigation
-1. with integrated search
+1. With integrated search
 1. Main-navigation
 1. Sub-navigation
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 ![Complete: SM+XS](assets/elements/SM+XS/complete@1x.png)
 
@@ -114,6 +114,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 ## Language
 
 - This selection is required by countries that offer a SCHWARZ sub-brand website in different languages.
+- The text-style is [small](../../General/Typography/Typography.md#small).
 - The default state always shows the current language. It changes to another language after a new selection.
 
 | Types | Attributes | Preview |
@@ -123,7 +124,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ---
 
-## Main- & Sub-navigation
+## Main- & sub-navigation
 
 - There are different types of usage for each section of the navigation.
 - Use the main-navigation for main topics that the SCHWARZ sub-brand has to offer.
@@ -219,12 +220,12 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - This section shows the different spacings of the desktop, tablet and mobile elements included in the header.
 
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 - All the spacing for these breakpoints and extended or collapsed mode are identical.
 - Only the **height** and **width** of the used components are different.
@@ -268,7 +269,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 | User-navigation | padding: 16px<br>height: 72px / 56px<br>icon-size: 24x24px | ![User-nav (LG)](assets/measurements/LG/collapsed/user-nav@1x.png) ![User-nav (MD)](assets/measurements/MD/collapsed/user-nav@1x.png) |
 
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 #### Spacing
 
@@ -306,14 +307,14 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 ---
 
-## Behaviour
+## Behavior
 
 ### On-scroll
 
 - The header resizes in desktop and tablet (landscape) with an on-scroll effect - as given in our examples on the top of this description.
-- There are two different behaviour for the resizing depending on the navigation items shown.
+- There are two different behavior for the resizing depending on the navigation items shown.
 
-### Main- & Sub-navigation
+### Main- & sub-navigation
 
 - If **the first scroll-down** interaction is triggered, the whole header gets in its **collapsed** mode.
 - If **the first scroll-up** interaction is triggered, the whole header gets in its **extended** mode.
@@ -324,8 +325,8 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 
 | Types | Preview |
 |---|---|
-| Main-navigation | ![Main-Nav (LG & MD)](assets/behaviour/main-nav.gif) |
-| Sub-navigation | ![Sub-Nav (LG & MD)](assets/behaviour/sub-nav.gif) |
+| Main-navigation | ![Main-Nav (LG & MD)](assets/behavior/main-nav.gif) |
+| Sub-navigation | ![Sub-Nav (LG & MD)](assets/behavior/sub-nav.gif) |
 
 #### Recommendations
 
@@ -336,7 +337,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 | Scroll down (Collapsed)| 0.6s | 0.15s | presets ease in & out | 0.64, 0.04, 0.35, 1 |
 | Scroll up (Extended)| 0.4s | 0s | custom presets | 0.59, 0.06, 0.4, 0.95 |
 
-### Overflow Menu "More"
+### Overflow menu "More"
 
 - The last main- or sub-navigation item is displayed as an overflow menu named "more..." if too many items should be presented than the possibility to show them.
 - The keyword "more..." is only a recommended example and can be retitled to any appropriate term (i.e. "others…").
@@ -365,7 +366,7 @@ The appearance demonstrates visitors that they are on a SCHWARZ page now. Its st
 - Clicking on the magnifier icon opens an active input-field that overlays the whole upper section (brand-, user-navigation and language selection) of the header.
 - In collapsed mode, the main-navigation fades out completely and only the search field is shown.
 
-![Examples (LG & MD)](assets/behaviour/search.gif)
+![Examples (LG & MD)](assets/behavior/search.gif)
 
 ---
 

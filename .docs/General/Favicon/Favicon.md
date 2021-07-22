@@ -37,7 +37,7 @@ It mainly appears in a website tab or bookmark and is an important element as it
 - The favicon is therefore available in different sizes.
 - The table below demonstrates the according use cases.
 
-| Size | Device or Purpose |
+| Size | Device or purpose |
 |---|---|
 | 16x16 | Browser favicon (SVG, PNG) |
 | 32x32 | Taskbar shortcut icon |

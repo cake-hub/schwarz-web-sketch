@@ -30,7 +30,7 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ## Variants
 
-- The frame element is available in different colors, which are subcategorized into: **positive** and **negative**
+- The frame element is available in different colors, which are subcategorized into: **positive** and **negative**.
 - There is an additional separation into **left** and **right** due to the positioning of the symbol.
 
 | Types | Attributes | Preview |
@@ -49,7 +49,7 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ---
 
-### Spacing & Measurements
+### Spacing & measurements
 
 - The width of the corner component depends on the content.
 

@@ -8,7 +8,7 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ---
 
-## Brand Colors
+## Brand colors
 
 - The SCHWARZ brand colors communicate the personality of the brand.
 

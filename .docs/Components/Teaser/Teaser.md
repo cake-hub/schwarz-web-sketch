@@ -36,7 +36,7 @@ It consists of an image and a text to underline the visual meaning.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|
