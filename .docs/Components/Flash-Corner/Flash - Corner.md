@@ -49,7 +49,7 @@ Use the different flashes to emphasize messages with a strong meaning.
 
 ---
 
-### Spacing & measurements
+## Spacing & measurements
 
 - The width of the corner component depends on the content.
 
