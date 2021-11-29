@@ -1,5 +1,12 @@
 # Change log
 
+## [5.3.0 Fundamental](https://github.com/cake-hub/schwarz-sketch/tree/v5.3.0) & [5.3.0 Web](https://github.com/cake-hub/schwarz-web-sketch/tree/v5.3.0) - 2021-11-29
+
+### Added
+
+* `Doc`: "Typography" | Line height calculation is added to our workflow section
+
+
 ## [5.2.0 Fundamental](https://github.com/cake-hub/schwarz-sketch/tree/v5.2.0) & [5.2.0 Web](https://github.com/cake-hub/schwarz-web-sketch/tree/v5.2.0) - 2021-07-22
 
 ### Changed

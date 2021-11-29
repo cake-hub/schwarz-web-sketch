@@ -150,22 +150,22 @@ They support the understanding of an information or function. Symbols are easier
 
 | Name | Icon | Purpose |
 |---|---|---|
-| ♥ skip-ahead-15-seconds | ![skip-ahead-15-seconds](assets/videoplayer/skip-ahead-15-seconds@1x.png) | fast forward, control, skip |
-| ♥ skip-back-15-seconds| ![skip-back-15-seconds](assets/videoplayer/skip-back-15-seconds@1x.png) | fast rewind, control, skip back |
-| ♥ skip-ahead-circle| ![skip-ahead-circle](assets/videoplayer/skip-ahead-circle@1x.png) | fast forward, control, skip |
-| ♥ back-circle| ![back-circle](assets/videoplayer/back-circle@1x.png) | previous, back |
-| ♥ mute| ![back-circle](assets/videoplayer/mute@1x.png) | no sound, voiceless media, no volume |
-| ♥ next-circle| ![next-circle](assets/videoplayer/next-circle@1x.png) | fast forward, next |
-| ♥ pause-circle| ![pause-circle](assets/videoplayer/pause-circle@1x.png) | pause media |
-| ♥ play-circle| ![play-circle](assets/videoplayer/play-circle@1x.png) | play, play media |
-| ♥ skip-back-circle| ![skip-back-circle](assets/videoplayer/skip-back-circle@1x.png) |  |
-| ♥ stop-circle| ![stop-circle](assets/videoplayer/stop-circle@1x.png) |  |
-| ♥ unmute| ![unmute](assets/videoplayer/unmute@1x.png) | hold, break, stop |
-| ♥ next\_alt| ![next_alt](assets/videoplayer/next_alt@1x.png) | next |
-| ♥ pause\_alt| ![pause_alt](assets/videoplayer/pause_alt@1x.png) | pause media |
-| ♥ play\_alt| ![play_alt](assets/videoplayer/play_alt@1x.png) | play, play media |
-| ♥ skip\_alt| ![skip_alt](assets/videoplayer/skip_alt@1x.png) | next |
-| ♥ stop\_alt| ![stop_alt](assets/videoplayer/stop_alt@1x.png) | hold, break, stop |
+| skip-ahead-15-seconds | ![skip-ahead-15-seconds](assets/videoplayer/skip-ahead-15-seconds@1x.png) | fast forward, control, skip |
+| skip-back-15-seconds| ![skip-back-15-seconds](assets/videoplayer/skip-back-15-seconds@1x.png) | fast rewind, control, skip back |
+| skip-ahead-circle| ![skip-ahead-circle](assets/videoplayer/skip-ahead-circle@1x.png) | fast forward, control, skip |
+| back-circle| ![back-circle](assets/videoplayer/back-circle@1x.png) | previous, back |
+| mute| ![back-circle](assets/videoplayer/mute@1x.png) | no sound, voiceless media, no volume |
+| next-circle| ![next-circle](assets/videoplayer/next-circle@1x.png) | fast forward, next |
+| pause-circle| ![pause-circle](assets/videoplayer/pause-circle@1x.png) | pause media |
+| play-circle| ![play-circle](assets/videoplayer/play-circle@1x.png) | play, play media |
+| skip-back-circle| ![skip-back-circle](assets/videoplayer/skip-back-circle@1x.png) |  |
+| stop-circle| ![stop-circle](assets/videoplayer/stop-circle@1x.png) |  |
+| unmute| ![unmute](assets/videoplayer/unmute@1x.png) | hold, break, stop |
+| next\_alt| ![next_alt](assets/videoplayer/next_alt@1x.png) | next |
+| pause\_alt| ![pause_alt](assets/videoplayer/pause_alt@1x.png) | pause media |
+| play\_alt| ![play_alt](assets/videoplayer/play_alt@1x.png) | play, play media |
+| skip\_alt| ![skip_alt](assets/videoplayer/skip_alt@1x.png) | next |
+| stop\_alt| ![stop_alt](assets/videoplayer/stop_alt@1x.png) | hold, break, stop |
 
 ---
 
